@@ -1,5 +1,4 @@
 import requests
-#import urllib.request
 
 print('Downloading file using requests')
 
